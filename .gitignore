@@ -10,6 +10,9 @@ yarn-error.log*
 .env
 .env.local
 
+# yml files
+weather_webapp_instructions.yml
+
 # Build outputs
 dist
 build
